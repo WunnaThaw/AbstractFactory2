@@ -1,2 +1,2 @@
-# AbstractFactory2
-Creational Design Pattern in C# | AbstractFactory2
+# Abstract Factory Design Pattern - 2
+Creational Design Pattern in C# | Abstract Factory
